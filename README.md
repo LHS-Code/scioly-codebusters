@@ -18,7 +18,7 @@
 ## aristocrat mispelled (difficulty: hard)
 > The Aristocrat Mispelled is the same as the Aristocrat, except some letters are mispelled. This uncertainty of the words make the cipher a lot more challenging to solve.
 
-## patristocrat (difficulty: hard)
+## patristocrat (difficulty: extremely hard)
 > The Patristocrat is one of the hardest ciphers, because the spaces are not preserved. The Patristocrat has 'spaces' between each 5 letters, but these spaces are to be ignored, as they are only for counting purposes (not very useful). You are usually given an 'crib word' which is typically 5-7 letters, and can be solved with a Caesar Cipher (I would reccomend using all indexes between -6 and 6, as it usually contains the solve for the crib word). The crib word will always be somewhere in the cipher text. The most common digram (aka 2 letter string) is 'TH', the most common trigram (aka 3 letter string) is 'THE'. Find the letters that appear in this sequence the most, and do the substitution. After that, try to find a place where the crib word would logically be used based on the substitution you made with 'TH' and 'THE'. 
 
 ## xenocrypt (difficulty: extremely hard)  
@@ -40,11 +40,6 @@
 ## railfence - transposition (difficulty: medium)
 
 # Resources
-> https://toebes.com/codebusters/
-> https://youngtyros.com/category/solving/chapters/
-
-
-
-
-
-//beanz
+| Cipher Name | Young Tyros | ACA | Cryptocrack | YT Video |
+| :-: | :-: | :-: | :-: | :-: |
+| Aristocrat | https://youngtyros.com/2018/06/04/aristocrat-substitution-cipher/ | https://www.cryptogram.org/wp-content/themes/wp-opulus-child/images/SampleCryptogram.pdf
