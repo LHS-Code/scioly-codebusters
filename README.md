@@ -16,10 +16,10 @@
 > Teams of 3 people will solve 21 ± 13 questions in 50 minutes. Only a basic 4 faced calculator is allowed (no graphing or scientific calculators allowed). 
 > - Tip: Do not stress out about not finishing all of the ciphers on time. Try to be able to solve questions faster with many practice problems, but do note that even the top teams will only solve like 8-9 questions correctly. Pick the ones you can solve, and if you are unable how to do a cipher, don't attempt it.  
 > Questions will be weighted differently.  
-> - An easy question: 100-150 points  
-> - A medium question: 200-300 points  
-> - A hard question: 350-500 points  
-> - A very hard question: 550-700 points  
+- An easy question: 100-150 points  
+- A medium question: 200-300 points  
+- A hard question: 350-500 points  
+- A very hard question: 550-700 points  
 # Basic Vocabulary  
 > A cipher is a key/rule to conceal information.  
 
