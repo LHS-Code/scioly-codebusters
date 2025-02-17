@@ -22,6 +22,7 @@
 > The Patristocrat is one of the hardest ciphers, because the spaces are not preserved. The Patristocrat has 'spaces' between each 5 letters, but these spaces are to be ignored, as they are only for counting purposes (not very useful). You are usually given an 'crib word' which is typically 5-7 letters, and can be solved with a Caesar Cipher (I would reccomend using all indexes between -6 and 6, as it usually contains the solve for the crib word). The crib word will always be somewhere in the cipher text. The most common digram (aka 2 letter string) is 'TH', the most common trigram (aka 3 letter string) is 'THE'. Find the letters that appear in this sequence the most, and do the substitution. After that, try to find a place where the crib word would logically be used based on the substitution you made with 'TH' and 'THE'. 
 
 ## xenocrypt (difficulty: extremely hard)  
+> The Xenocrypt is basically an Aristocrat in a different language (usually Spanish, but could also be French). Sometimes, a crib word is given for this cipher; and you must find a location where this crib would fit in the ciphertext, and substitute all of the other letters accordingly. From there, you can probably try to make logical words that exist in that language that would make sense given on the context of the substituted crib word.
 
 # Mathematical Ciphers
 ## cryptarithm (difficulty: medium/hard)  
