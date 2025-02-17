@@ -12,7 +12,7 @@
 ##### This document is a good Science Olympiad Codebusters C Guide, and it has links and resources attached, along with basic explanations for all of the ciphers.  
 > **SIMPLY READING THIS DOCUMENT WILL NOT ALLOW YOU TO SOLVE CIPHERS!** In order to properly understand the ciphers, you must apply rules stated in this document to numerous practice questions.
 > The best resource to use for Codebusters is here: https://scioly.org/wiki/index.php/Codebusters
-##### Breakdown of Simplified Rules
+##### Rules Breakdown
 > Teams of 3 people will solve 21 ± 13 questions in 50 minutes. Only a basic 4 faced calculator is allowed (no graphing or scientific calculators allowed). 
 > Tip: Do not stress out about not finishing all of the ciphers on time. Try to be able to solve questions faster with many practice problems, but do note that even the top teams will only solve like 8-9 questions correctly. Pick the ones you can solve, and if you are unable how to do a cipher, don't attempt it.  
 ##### Question Point Breakdown
@@ -58,14 +58,15 @@
 ## railfence - transposition (difficulty: medium)
 
 # Resources
-| Cipher Name | Scioly Docs | Young Tyros | ACA | YouTube Video | 
-| :-: | :-: | :-: | :-: |
-| Aristocrat | https://youngtyros.com/2018/06/04/aristocrat-substitution-cipher/ | https://www.cryptogram.org/wp-content/themes/wp-opulus-child/images/SampleCryptogram.pdf | https://www.youtube.com/watch?v=tabLmxqOz_c |
-| Baconian |
-| Caesar Cipher |
-| Cryptarithm |
-| Fractionated Morse |
-| Hill 2x2 |
+##### The order of location goes Invitational/Regional [I] > State [S] > National [N]
+| Cipher Name | Location | Scioly Docs | Young Tyros | ACA | YouTube Video | 
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Aristocrat | I | https://youngtyros.com/2018/06/04/aristocrat-substitution-cipher/ | https://www.cryptogram.org/wp-content/themes/wp-opulus-child/images/SampleCryptogram.pdf | https://www.youtube.com/watch?v=tabLmxqOz_c |
+| Baconian | Regional+ |
+| Caesar Cipher | N/A |
+| Cryptarithm | Regional+ |
+| Fractionated Morse | Regional+ |
+| Hill 2x2 | State+
 | Hill 3x3 |
 | Morbit |
 | Nihilistic Substitution |
