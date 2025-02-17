@@ -1,4 +1,4 @@
-# scioly-codebusters-c
+# scioly-codebusters-c (deciphering)
 **Unofficial Science Olympiad Guide made by S-Orbital in Largo High School Coding Club (LHS-Code/LHSCC).**
 # contents - list of cipher categories
 ### Linguistic Ciphers
@@ -28,7 +28,7 @@
 ## cryptarithm (difficulty: medium/hard)  
 ## hill 2x2 (difficulty: medium)  
 ## hill 3x3 (difficulty: hard)  
-## nihilist substitution (difficulty: easy)  
+## nihilistic substitution (difficulty: easy)  
 
 # Stenographic/Tommogramic Ciphers
 ## baconian (difficulty: extremely easy)  
@@ -41,6 +41,19 @@
 ## railfence - transposition (difficulty: medium)
 
 # Resources
-| Cipher Name | Young Tyros | ACA | Cryptocrack | YT Video |
-| :-: | :-: | :-: | :-: | :-: |
-| Aristocrat | https://youngtyros.com/2018/06/04/aristocrat-substitution-cipher/ | https://www.cryptogram.org/wp-content/themes/wp-opulus-child/images/SampleCryptogram.pdf
+| Cipher Name | Young Tyros | ACA | YouTube Video |
+| :-: | :-: | :-: | :-: |
+| Aristocrat | https://youngtyros.com/2018/06/04/aristocrat-substitution-cipher/ | https://www.cryptogram.org/wp-content/themes/wp-opulus-child/images/SampleCryptogram.pdf | https://www.youtube.com/watch?v=tabLmxqOz_c |
+| Baconian |
+| Caesar Cipher |
+| Cryptarithm |
+| Fractionated Morse |
+| Hill 2x2 |
+| Hill 3x3 |
+| Morbit |
+| Nihilistic Substitution |
+| Paristocrat |
+| Pollux |
+| Porta |
+| Railfence |
+| Xenocrypt |
