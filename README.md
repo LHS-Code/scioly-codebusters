@@ -34,9 +34,9 @@ The **monoalphabetic substitution cipher** is a type of cipher that has exactly 
 > K2: The cipher alphabet is keyed
 > | Type | Plain Text | Cipher Text|
 > | :-: | :-: | :-:|
-> | Non-Keyed |
-> | K1 |
-> | K2 |
+> | Non-Keyed | xyzabcdefghijklmnopqrstuvw | WXYZABCDEFGHIJKLMNOPQRSTUV |
+> | K1 | teachrbdfgijklmnopqsuvwxyz | WXYZABCDEFGHIJKLMNOPQRSTUV |
+> | K2 | xyzabcdefghijklmnopqrstuvw | TEACHRBDFGIJKLMNOPQSUVWXYZ |
 
 ##### caesar (difficulty: N/A)
 > The Caesar Cipher involves universal letter shifts by a certain index. A Caesar Cipher can be solved by listing the 25 other letter shifts from the original. This cipher is the only cipher on the list that isn't asked as it's own question on the Scioly exam, but rather used as an index in other ciphers. THIS IS SOMETHING I ADDED WITH VISUAL STUDIO CODE.
