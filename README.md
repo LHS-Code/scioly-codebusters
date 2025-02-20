@@ -70,10 +70,14 @@ The **monoalphabetic substitution cipher** is a type of cipher that has exactly 
 ##### railfence - transposition (difficulty: medium)
 
 # Resources
+##### Official Resources
+> [Official Reference Sheet](https://www.soinc.org/sites/default/files/uploaded_files/CB_2022-2023-resource-sheet.pdf)
+> [General Codebusters Documentation](https://www.soinc.org/sites/default/files/uploaded_files/CodeBusters_Overview25_0.pdf)
+> [Outdated Codebusters Wiki](https://scioly.org/wiki/index.php/Codebusters)
 ##### The order of location goes Invitational/Regional [I] > State [S] > National [N]
 | Cipher Name | Location | Scioly Docs | Young Tyros | ACA | YouTube Video | 
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Aristocrat | I | https://youngtyros.com/2018/06/04/aristocrat-substitution-cipher/ | https://www.cryptogram.org/wp-content/themes/wp-opulus-child/images/SampleCryptogram.pdf | https://www.youtube.com/watch?v=tabLmxqOz_c |
+| Aristocrat | Regional+ | https://youngtyros.com/2018/06/04/aristocrat-substitution-cipher/ | https://www.cryptogram.org/wp-content/themes/wp-opulus-child/images/SampleCryptogram.pdf | https://www.youtube.com/watch?v=tabLmxqOz_c |
 | Baconian | Regional+ |
 | Caesar Cipher | N/A |
 | Cryptarithm | Regional+ |
