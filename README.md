@@ -28,13 +28,15 @@
 > The cipher alphabet describes the alphabet of the ciphertext.
 
 # Monoalphabetic Substitution Ciphers  
-The **monoalphabetic substitution cipher** is a type of cipher that has exactly one substitution for each letter, each alphabet letter of the ciphertext translates to exactly one letter of the plaintext. There are 3 different types of alphabets used in Codebusters C:
-> Non-Keyed: There is no keyword in the ciphertext
-> K1: The plain alphabet is keyed:  
-> > Plaintext: teachrbdfgijklmnopqsuvwxyz  
-> > Ciphertext: WXYZABCDEFGHIJKLMNOPQRSTUV  
+The **monoalphabetic substitution cipher** is a type of cipher that has exactly one substitution for each letter, each alphabet letter of the ciphertext translates to exactly one letter of the plaintext. There are 3 different types of keyed alphabets used in Codebusters C:
+> Non-Keyed: There is no keyword in the plain nor cipher alphabet
+> K1: The plain alphabet is keyed
 > K2: The cipher alphabet is keyed
-
+> | Type | Plain Text | Cipher Text|
+> | :-: | :-: | :-:|
+> | Non-Keyed |
+> | K1 |
+> | K2 |
 
 ##### caesar (difficulty: N/A)
 > The Caesar Cipher involves universal letter shifts by a certain index. A Caesar Cipher can be solved by listing the 25 other letter shifts from the original. This cipher is the only cipher on the list that isn't asked as it's own question on the Scioly exam, but rather used as an index in other ciphers. THIS IS SOMETHING I ADDED WITH VISUAL STUDIO CODE.
