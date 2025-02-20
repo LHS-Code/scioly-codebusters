@@ -1,14 +1,14 @@
-# scioly-codebusters-c (deciphering)
-# contents - list of cipher categories
+# scioly-codebusters-c
+# contents
 > ##### Overview & Basic Rules
 > ##### Basic Vocabulary
 > ##### Linguistic Ciphers
-> ##### Mathematical Ciphers
+> ##### [Mathematical Ciphers](/Mathematical Ciphers)
 > ##### Stenographic/Tommogramic Ciphers
 > ##### Other Ciphers
 > ##### Resources for Reference
 
-# Overview & Basic Rules  
+# Overview & Basic Rules   
 ##### Documentation Notes
 > **SIMPLY READING THIS DOCUMENT WILL NOT ALLOW YOU TO SOLVE CIPHERS!** In order to properly understand the ciphers, you must apply rules stated in this document to numerous practice questions. This document is a good Science Olympiad Codebusters C Guide, and it has links and resources attached, along with basic explanations for all of the ciphers.
 ##### Rules Breakdown
