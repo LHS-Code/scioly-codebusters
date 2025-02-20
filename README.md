@@ -3,7 +3,7 @@
 > ##### Overview & Basic Rules
 > ##### Basic Vocabulary
 > ##### Linguistic Ciphers
-> ##### <a href="#####Mathematical-Ciphers">Mathematical Ciphers</a>
+> ##### <a href="#Mathematical-Ciphers">Mathematical Ciphers</a>
 > ##### Stenographic/Tommogramic Ciphers
 > ##### Other Ciphers
 > ##### Resources for Reference
