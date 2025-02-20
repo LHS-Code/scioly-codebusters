@@ -30,9 +30,9 @@
 # Monoalphabetic Substitution Ciphers  
 The **monoalphabetic substitution cipher** is a type of cipher that has exactly one substitution for each letter, each alphabet letter of the ciphertext translates to exactly one letter of the plaintext. There are 3 different types of alphabets used in Codebusters C:
 > Non-Keyed: There is no keyword in the ciphertext
-> K1: The plain alphabet is keyed:
-> > teachrbdfgijklmnopqsuvwxyz - K1
-> > WXYZABCDEFGHIJKLMNOPQRSTUV
+> K1: The plain alphabet is keyed:  
+> > Plaintext: teachrbdfgijklmnopqsuvwxyz  
+> > Ciphertext: WXYZABCDEFGHIJKLMNOPQRSTUV  
 > K2: The cipher alphabet is keyed
 
 
