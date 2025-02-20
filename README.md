@@ -21,10 +21,10 @@
 > A very hard question: 550-700 points  
 # Basic Vocabulary  
 > A cipher is a key/rule to conceal information.  
-> The plaintext is a string of text that is unencrypted.
-> The plain alphabet describes the alphabet of the plaintext.
-> The ciphertext is a string of text that is the encrypted version of the plain text with a cipher.
-> The cipher alphabet describes the alphabet of the ciphertext.
+> The plaintext is a string of text that is unencrypted.  
+> The plain alphabet describes the alphabet of the plaintext.  
+> The ciphertext is a string of text that is the encrypted version of the plain text with a cipher.  
+> The cipher alphabet describes the alphabet of the ciphertext.  
 
 # Monoalphabetic Substitution Ciphers  
 The **monoalphabetic substitution cipher** is a type of cipher that has exactly one substitution for each letter, each alphabet letter of the ciphertext translates to exactly one letter of the plaintext. There are 3 different types of keyed alphabets used in Codebusters C:
