@@ -1,12 +1,12 @@
 # scioly-codebusters-c (deciphering)
 # contents - list of cipher categories
-### Overview & Basic Rules
-### Basic Vocabulary
-### Linguistic Ciphers
-### Mathematical Ciphers
-### Stenographic/Tommogramic Ciphers
-### Other Ciphers
-### Resources for Reference
+> ##### Overview & Basic Rules
+> ##### Basic Vocabulary
+> ##### Linguistic Ciphers
+> ##### Mathematical Ciphers
+> ##### Stenographic/Tommogramic Ciphers
+> ##### Other Ciphers
+> ##### Resources for Reference
 
 # Overview & Basic Rules  
 ##### This document is a good Science Olympiad Codebusters C Guide, and it has links and resources attached, along with basic explanations for all of the ciphers.  
@@ -22,9 +22,19 @@
 > A very hard question: 550-700 points  
 # Basic Vocabulary  
 > A cipher is a key/rule to conceal information.  
+> The plaintext is a string of text that is unencrypted.
+> The plain alphabet describes the alphabet of the plaintext.
+> The ciphertext is a string of text that is the encrypted version of the plain text with a cipher.
+> The cipher alphabet describes the alphabet of the ciphertext.
 
+# Monoalphabetic Substitution Ciphers  
+The **monoalphabetic substitution cipher** is a type of cipher that has exactly one substitution for each letter, each alphabet letter of the ciphertext translates to exactly one letter of the plaintext. There are 3 different types of alphabets used in Codebusters C:
+> Non-Keyed: There is no keyword in the ciphertext
+> K1: The plain alphabet is keyed:
+> > teachrbdfgijklmnopqsuvwxyz - K1
+> > WXYZABCDEFGHIJKLMNOPQRSTUV
+> K2: The cipher alphabet is keyed
 
-# Monoalphabetic Substitution Ciphers
 
 ##### caesar (difficulty: N/A)
 > The Caesar Cipher involves universal letter shifts by a certain index. A Caesar Cipher can be solved by listing the 25 other letter shifts from the original. This cipher is the only cipher on the list that isn't asked as it's own question on the Scioly exam, but rather used as an index in other ciphers. THIS IS SOMETHING I ADDED WITH VISUAL STUDIO CODE.
