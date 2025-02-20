@@ -29,9 +29,9 @@
 
 # Monoalphabetic Substitution Ciphers  
 The **monoalphabetic substitution cipher** is a type of cipher that has exactly one substitution for each letter, each alphabet letter of the ciphertext translates to exactly one letter of the plaintext. There are 3 different types of keyed alphabets used in Codebusters C:
-> Non-Keyed: There is no keyword in the plain nor cipher alphabet
-> K1: The plain alphabet is keyed
-> K2: The cipher alphabet is keyed
+> Non-Keyed: There is no keyword in the plain nor cipher alphabet  
+> K1: The plain alphabet is keyed  
+> K2: The cipher alphabet is keyed  
 > | Type | Plain Text | Cipher Text|
 > | :-: | :-: | :-:|
 > | Non-Keyed | xyzabcdefghijklmnopqrstuvw | WXYZABCDEFGHIJKLMNOPQRSTUV |
