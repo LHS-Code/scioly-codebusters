@@ -1,12 +1,12 @@
 # scioly-codebusters-c
 # contents
-> Overview & Basic Rules  
-> Basic Vocabulary  
-> Linguistic Ciphers  
-> Mathematical Ciphers  
-> Stenographic/Tommogramic Ciphers  
-> Other Ciphers  
-> Resources  
+> **Overview & Basic Rules**  
+> **Basic Vocabulary**  
+> **Linguistic Ciphers**  
+> **Mathematical Ciphers**  
+> **Stenographic/Tommogramic Ciphers**  
+> **Other Ciphers**  
+> **Resources**  
 
 # Overview & Basic Rules   
 ##### Documentation Notes
