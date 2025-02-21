@@ -52,7 +52,7 @@ The **monoalphabetic substitution cipher** is a type of cipher that has exactly 
 ##### xenocrypt (difficulty: extremely hard)  
 > The Xenocrypt is basically an Aristocrat in a different language (there will be ONE Spanish Xenocrypt at most on the test). Sometimes, a crib word is given for this cipher; and you must find a location where this crib would fit in the ciphertext, and substitute all of the other letters accordingly. From there, you can probably try to make logical words that exist in that language that would make sense given on the context of the substituted crib word.
 
-<div id="#Mathematical-Ciphers">Mathematical Ciphers</div>
+<a id="#Mathematical-Ciphers">Mathematical Ciphers</div>
 
 ##### cryptarithm (difficulty: medium/hard)  
 ##### hill 2x2 (difficulty: medium)  
